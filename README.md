@@ -3,7 +3,7 @@
 🎓 I'm a first-year Electronics and Telecommunication Engineering student who’s passionate about learning and building cool things with technology. While I'm still early in my journey, I love exploring.
 ## 🚀 What I'm Learning
 - Electronics fundamentals
-- Programming basics in C, C++, and Java
+- Programming basics in C and Java
 - IoT platforms and basic automation
 
 ## 🛠️ Skills I'm Exploring
