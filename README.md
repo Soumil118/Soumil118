@@ -8,7 +8,6 @@
 
 ## 🛠️ Skills I'm Exploring
 - Embedded systems
-- Sensors and actuators
 - Basic Java programming
 - Git & GitHub for version control
 
